@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am riku45100 on github.
+  * I am richardmcgrath (https://keybase.io/richardmcgrath) on keybase.
+  * I have a public key ASAGY7syU_RB2TrbFSnPcn-EK0OfWg41mlCM0NLpku3w3go
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200663bb3253f441d93adb1529cf727f842b439f5a0e359a508cd0d2e992edf0de0a",
+      "host": "keybase.io",
+      "kid": "01200663bb3253f441d93adb1529cf727f842b439f5a0e359a508cd0d2e992edf0de0a",
+      "uid": "0267863e17146dcd7d723c48f5f20819",
+      "username": "richardmcgrath"
+    },
+    "merkle_root": {
+      "ctime": 1621105011,
+      "hash": "9b9141a0aa3a39585649f5af5e57a2c8671e5ba99263031fadd3c7fa7e4045da5dc26cc2183281fcd472840896644cc77b021938b2e58d8be9ccaeffa44d6dbb",
+      "hash_meta": "11c9a431309f5623db3a2679c3f80c5bdb9555e9f2afdc701f93467cc3a6894e",
+      "seqno": 19952543
+    },
+    "service": {
+      "entropy": "8BOvgGz7PYldKaEbPmFnff1R",
+      "name": "github",
+      "username": "riku45100"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.0"
+  },
+  "ctime": 1621105140,
+  "expire_in": 504576000,
+  "prev": "411ddb419d51e4f5f20834edcb51a816f674cec53f926b896ecfe93f37efcf98",
+  "seqno": 33,
+  "tag": "signature"
+}
+```
+
+with the key [ASAGY7syU_RB2TrbFSnPcn-EK0OfWg41mlCM0NLpku3w3go](https://keybase.io/richardmcgrath), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgBmO7MlP0Qdk62xUpz3J/hCtDn1oONZpQjNDS6ZLt8N4Kp3BheWxvYWTESpcCIcQgQR3bQZ1R5PXyCDTty1GoFvZ0zsU/kmuJbs/pPzfvz5jEIH/Covtg5wkmP5tfmC6cUw4lMLBMi6B3qh6qbhxLeHHhAgHCo3NpZ8RA9h+WQzmORO/OZHe0Oh6lMG/CD0hdm0D+xwLkb6+n5D8HdBjfPLo251AuXatc+1ii9MoAFdvB3gsId/rq8yGGAqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILCdsWUAFQVFcfYnfUCiV2XW+Q10rut9PdElOvvWukWQo3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/richardmcgrath
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id richardmcgrath
+```
